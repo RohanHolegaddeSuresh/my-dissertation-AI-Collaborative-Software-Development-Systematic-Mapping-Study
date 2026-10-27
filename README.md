@@ -12,7 +12,13 @@
 ## About This Research
 
 This dissertation presents a Systematic Mapping Study (SMS) investigating the impact of AI-driven tools and techniques on collaborative software development practices. Drawing from 55 peer-reviewed publications, the study examines how tools such as GitHub Copilot, Amazon Q Developer, and ChatGPT influence team productivity, coordination, communication, and software quality in distributed development environments.
-
+| Stage                          | Outcome                                                           |
+| ------------------------------ | ----------------------------------------------------------------- |
+| Initial records                | 231 records, including database results and 47 additional records |
+| After duplicate removal        | 206 unique records                                                |
+| After title/abstract screening | 193 shortlisted                                                   |
+| After full-text screening      | 82 eligible                                                       |
+| Final included studies         | 55 studies Rohan_24227139_COMP971_Dissertation.pdf                |
 ---
 
 ## Research Questions
